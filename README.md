@@ -1,3 +1,5 @@
+
+
 <p align="center">
   <b>Awesome AI4Math</b>
 </p>
@@ -771,7 +773,7 @@
 
 ## Contributing
 
-Contributions welcome! Please read the [contributing guidelines](CONTRIBUTING.md) first.
+Contributions welcome! Please read the [contributing guidelines](CONTRIBUTING.md) first and use one resource per pull request.
 
 ## License
 
