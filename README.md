@@ -383,6 +383,7 @@
 
 #### General Benchmarks
 
+- [Extremal Values Registry](https://github.com/extremal-values-registry/extremal-values-registry) - Best-known values for 322 extremal problem variants with primary sources and supersession chains
 - [Lean Workbook](https://huggingface.co/datasets/pkuai4math/Lean-Workbook) - Large-scale problem set
 - [miniCTX](https://github.com/princeton-nlp/miniCTX) - In-context theorem proving
 - [TPTP](https://www.tptp.org/) - Thousands of Problems for Theorem Provers
