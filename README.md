@@ -750,6 +750,7 @@
 ### Preprint Platforms
 
 - [aiXiv](https://aixiv.science/) - Next-generation preprint server for AI scientists with multi-agent review system ([GitHub](https://github.com/aixiv-org/aiXiv))
+- [aiXiv.online](https://aixiv.online/) - Open archive and digest for AI-assisted mathematics, with declared AI contributions, verified repositories and timestamped priority records
 - [arXiv](https://arxiv.org/) - Open-access preprint repository for scientific papers
 
 ### Landmark Papers
